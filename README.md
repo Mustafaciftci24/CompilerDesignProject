@@ -2,7 +2,7 @@
 
 Compiler that execute the below commands
 
-prime in 14 55
+prime in 14 to 55
 
 even in 2 to 100
 
